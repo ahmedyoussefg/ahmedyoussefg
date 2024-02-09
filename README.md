@@ -39,19 +39,19 @@
 
 
 ## 📊 Stats
-<li align=center> <a strong href="https://codeforces.com/profile/ahmedyoussefg">Codeforces Profile: ahmedyoussefg</strong><br>
-<a href="https://codeforces.com/profile/ahmedyoussefg">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=ahmedyoussefg&theme=onedark&force_username=true&border_color=404040" alt="Codeforces Stats"/>
-</a>
-</li>
-<br>
+
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=ahmedyoussefg&count_private=true&theme=onedark&border_radius=20" alt="GitHub Streak" style="margin-right: 2%;"/>
     <a href="https://github.com/ahmedyoussefg">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyoussefg&layout=compact&theme=onedark" alt="Top Languages"/>
     </a>
 </div>
-
+<br>
+<li align=center> <a strong href="https://codeforces.com/profile/ahmedyoussefg">Codeforces Profile: ahmedyoussefg</strong><br>
+<a href="https://codeforces.com/profile/ahmedyoussefg">
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=ahmedyoussefg&theme=onedark&force_username=true&border_color=404040" alt="Codeforces Stats"/>
+</a>
+</li>
 
 ## 📫 How To Reach Me?
 <p align=center>
