@@ -45,6 +45,19 @@
     <a href="https://github.com/ahmedyoussefg">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyoussefg&layout=compact&theme=onedark" alt="Top Languages"/>
     </a>
+<br><br>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ahmedyoussefg&show_icons=true&theme=onedark&rank_icon=github&show=prs_merged"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ahmedyoussefg&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedyoussefg&show_icons=true" />
+</picture>
+
 </div>
 <br>
 <li align=center> <a strong href="https://codeforces.com/profile/ahmedyoussefg">Codeforces Profile: ahmedyoussefg</strong><br>
