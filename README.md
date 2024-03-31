@@ -49,7 +49,7 @@
 <a href="https://github.com/ahmedyoussefg">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ahmedyoussefg&show_icons=true&theme=onedark&rank_icon=github&show=prs_merged"
+    srcset="https://github-readme-stats.vercel.app/api?username=ahmedyoussefg&show_icons=true&theme=onedark&rank_icon=github"
     media="(prefers-color-scheme: dark)"
   />
   <source
