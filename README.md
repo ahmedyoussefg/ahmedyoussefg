@@ -43,7 +43,7 @@
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=ahmedyoussefg&count_private=true&theme=onedark&border_radius=20" alt="GitHub Streak" style="margin-right: 2%;"/>
     <a href="https://github.com/ahmedyoussefg">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyoussefg&layout=compact&theme=onedark&exclude_repo=pintos" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyoussefg&layout=compact&theme=onedark&exclude_repo=PintOS" alt="Top Languages"/>
     </a>
 <br><br>
 <a href="https://github.com/ahmedyoussefg">
