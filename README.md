@@ -26,9 +26,10 @@
 
 
 ## 🌟 Projects I am Proud Of
-
 - [Producer/Consumer Simulation Program](https://github.com/ahmedyoussefg/Producer-Consumer)
+- [SignalFlowSolver](https://github.com/ahmedyoussefg/SignalFlowGraph-And-Routh)
 - [RootFinder](https://github.com/ahmedyoussefg/RootFinder) & [LinearEquationsSolver](https://github.com/ahmedyoussefg/LinearEquationsSolver)
+- [AnimalPro](https://github.com/ahmedyoussefg/AnimalPro)
 - [CipherPost (Mail Server)](https://github.com/ahmedyoussefg/CipherPost)
 - [Paint Drawing Application](https://github.com/ahmedyoussefg/PaintApp)
 - [Connect Fours Game](https://github.com/ahmedyoussefg/connect4)
