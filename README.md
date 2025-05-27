@@ -67,6 +67,12 @@
 <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=ahmedyoussefg&theme=onedark&force_username=true&border_color=404040" alt="Codeforces Stats"/>
 </a>
 </li>
+<li align=center>
+  <strong>LeetCode Profile: ahmedyoussefgo3</strong><br>
+  <a href="https://leetcode.com/ahmedyoussefgo3">
+    <img height="316" src="https://leetcard.jacoblin.cool/ahmedyoussefgo3?ext=contest&theme=dark" alt="LeetCode Stats"/>
+  </a>
+</li>
 
 ## 📫 How To Reach Me?
 <p align=center>
