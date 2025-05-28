@@ -25,19 +25,17 @@
 [![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)](https://github.com/ahmedyoussefg)
 
 
-## 🌟 Projects I am Proud Of
-- [Producer/Consumer Simulation Program](https://github.com/ahmedyoussefg/Producer-Consumer)
-- [SignalFlowSolver](https://github.com/ahmedyoussefg/SignalFlowGraph-And-Routh)
-- [RootFinder](https://github.com/ahmedyoussefg/RootFinder) & [LinearEquationsSolver](https://github.com/ahmedyoussefg/LinearEquationsSolver)
+## 🌟 Featured Projects
+- [Al-Sayes](https://github.com/ahmedyoussefg/Al-Sayes)
+- [Knowtopia](https://github.com/ahmedyoussefg/Knowtopia)
+- [Stanford PintOS](https://github.com/ahmedyoussefg/PintOS)
+- [Speech Emotion Recognition](https://github.com/ahmedyoussefg/Speech-Emotion-Recognition)
+- [Heart Failure Classification](https://github.com/ahmedyoussefg/Heart-Failure-Classification)
+- [Connect Four AI Agent](https://github.com/ahmedyoussefg/Connect4-MiniMax)
+- [Sudoku Solver & Generator](https://github.com/ahmedyoussefg/Sudoku)
+- [8-Puzzle AI Agent](https://github.com/ahmedyoussefg/8-Puzzle)
+- [Producer/Consumer Simulation](https://github.com/ahmedyoussefg/Producer-Consumer)
 - [AnimalPro](https://github.com/ahmedyoussefg/AnimalPro)
-- [CipherPost (Mail Server)](https://github.com/ahmedyoussefg/CipherPost)
-- [Paint Drawing Application](https://github.com/ahmedyoussefg/PaintApp)
-- [Connect Fours Game](https://github.com/ahmedyoussefg/connect4)
-- [Observa (Home Security)](https://github.com/orgs/HCI26/repositories)
-- [Web Calculator](https://github.com/ahmedyoussefg/Web-Calculator)
-- [Inference Engine](https://github.com/ahmedyoussefg/InferenceEngine_Discrete)
-- [Polynomial Solver](https://github.com/ahmedyoussefg/PolynomialSolver_DS1)
-
 
 ## 📊 Stats
 
@@ -68,7 +66,7 @@
 </a>
 </li>
 <li align=center>
-  <strong>LeetCode Profile: ahmedyoussefgo3</strong><br>
+  <a strong href="https://leetcode.com/ahmedyoussefgo3">LeetCode Profile: ahmedyoussefgo3</strong><br>
   <a href="https://leetcode.com/ahmedyoussefgo3">
     <img height="316" src="https://leetcard.jacoblin.cool/ahmedyoussefgo3?ext=contest&theme=dark" alt="LeetCode Stats"/>
   </a>
